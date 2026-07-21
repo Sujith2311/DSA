@@ -1,6 +1,6 @@
 # 🧠 DSA Practice & Problem Solving
 
-> All solutions in C++. Updated daily.
+> Built as a testament to daily consistency and determination — one problem, every single day.
 
 ---
 
