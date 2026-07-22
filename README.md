@@ -21,7 +21,7 @@
 
 | ID | Problem | Difficulty | Status | Date | Link |
 |---|---|---|---|---|---|
-| 1 | Pair with Target Sum | Medium | ✅ Done| 22-07-2026 | [Solve](./1.Pair%20with%20Target%20Sum-167.md) |
+| 1 | Pair with Target Sum | Medium | ✅ Done| 22-07-2026 | [Solve](twopointers/1.Pair%20with%20Target%20Sum-167.md) |
 | 2 | Rearrange 0 and 1 | Easy | ⏳ Not Started | | [Solve](#) |
 | 3 | Remove Duplicates | Easy | ⏳ Not Started | | [Solve](#) |
 | 4 | Squaring a Sorted Array | Easy | ⏳ Not Started | | [Solve](#) |
