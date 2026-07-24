@@ -22,8 +22,8 @@
 | ID | Problem | Difficulty | Status | Date | Link |
 |---|---|---|---|---|---|
 | 1 | Pair with Target Sum | Medium | ✅ Done| 22-07-2026 | [Solve](twopointers/1.Pair%20with%20Target%20Sum-167.md) |
-| 2 | Rearrange 0 and 1 | Easy | ⏳ Not Started | | [Solve](#) |
-| 3 | Remove Duplicates | Easy | ⏳ Not Started | | [Solve](#) |
+| 2 | Rearrange 0 and 1 | Easy | ✅ Done | 23-07-2026 | [Solve](twopointers/2.Rearrange%200%20and%201-gfg.md) |
+| 3 | Remove Duplicates | Easy | ✅ Doned | 24-07-2026 |[Solve](twopointers/3.Remove%20Duplicates-26.md) |
 | 4 | Squaring a Sorted Array | Easy | ⏳ Not Started | | [Solve](#) |
 | 5 | Triplet Sum to Zero | Medium | ⏳ Not Started | | [Solve](#) |
 | 6 | Triplet Sum Close to Target | Medium | ⏳ Not Started | | [Solve](#) |
