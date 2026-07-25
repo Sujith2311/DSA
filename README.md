@@ -9,9 +9,9 @@
 | Metric | Value |
 |---|---|
 | Total Problems | 189 |
-| Solved | 0 |
-| Current Streak | — |
-| Last Solved | — |
+| Solved | 4 |
+| Current Streak | 4 |
+| Last Solved | 4 |
 
 ---
 
@@ -23,8 +23,8 @@
 |---|---|---|---|---|---|
 | 1 | Pair with Target Sum | Medium | ✅ Done| 22-07-2026 | [Solve](twopointers/1.Pair%20with%20Target%20Sum-167.md) |
 | 2 | Rearrange 0 and 1 | Easy | ✅ Done | 23-07-2026 | [Solve](twopointers/2.Rearrange%200%20and%201-gfg.md) |
-| 3 | Remove Duplicates | Easy | ✅ Doned | 24-07-2026 |[Solve](twopointers/3.Remove%20Duplicates-26.md) |
-| 4 | Squaring a Sorted Array | Easy | ⏳ Not Started | | [Solve](#) |
+| 3 | Remove Duplicates | Easy | ✅ Done | 24-07-2026 |[Solve](twopointers/3.Remove%20Duplicates-26.md) |
+| 4 | Squaring a Sorted Array | Easy | ✅ Done | 25-07-2026 |[Solve](twopointers/4.Squares%20of%20sorted%20Array-977.md)|
 | 5 | Triplet Sum to Zero | Medium | ⏳ Not Started | | [Solve](#) |
 | 6 | Triplet Sum Close to Target | Medium | ⏳ Not Started | | [Solve](#) |
 | 7 | Triplets with Smaller Sum | Medium | ⏳ Not Started | | [Solve](#) |
