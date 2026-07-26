@@ -9,9 +9,9 @@
 | Metric | Value |
 |---|---|
 | Total Problems | 189 |
-| Solved | 4 |
-| Current Streak | 4 |
-| Last Solved | 4 |
+| Solved | 5 |
+| Current Streak | 5 |
+| Last Solved | 5 |
 
 ---
 
@@ -25,7 +25,7 @@
 | 2 | Rearrange 0 and 1 | Easy | ✅ Done | 23-07-2026 | [Solve](twopointers/2.Rearrange%200%20and%201-gfg.md) |
 | 3 | Remove Duplicates | Easy | ✅ Done | 24-07-2026 |[Solve](twopointers/3.Remove%20Duplicates-26.md) |
 | 4 | Squaring a Sorted Array | Easy | ✅ Done | 25-07-2026 |[Solve](twopointers/4.Squares%20of%20sorted%20Array-977.md)|
-| 5 | Triplet Sum to Zero | Medium | ⏳ Not Started | | [Solve](#) |
+| 5 | Triplet Sum to Zero | Medium | ✅ Done  | 26-07-2026 | [Solve](twopointers/5.Triplet%20Sum%20to%20Zero-15.md) |
 | 6 | Triplet Sum Close to Target | Medium | ⏳ Not Started | | [Solve](#) |
 | 7 | Triplets with Smaller Sum | Medium | ⏳ Not Started | | [Solve](#) |
 | 8 | Subarrays with Product Less than a Target | Medium | ⏳ Not Started | | [Solve](#) |
