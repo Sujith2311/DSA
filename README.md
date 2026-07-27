@@ -9,9 +9,9 @@
 | Metric | Value |
 |---|---|
 | Total Problems | 189 |
-| Solved | 5 |
-| Current Streak | 5 |
-| Last Solved | 5 |
+| Solved | 6 |
+| Current Streak | 6 |
+| Last Solved | 6 |
 
 ---
 
