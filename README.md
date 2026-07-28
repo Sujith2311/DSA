@@ -27,7 +27,7 @@
 | 4 | Squaring a Sorted Array | Easy | ✅ Done | 25-07-2026 |[Solve](twopointers/4.Squares%20of%20sorted%20Array-977.md)|
 | 5 | Triplet Sum to Zero | Medium | ✅ Done  | 26-07-2026 | [Solve](twopointers/5.Triplet%20Sum%20to%20Zero-15.md) |
 | 6 | Triplet Sum Close to Target | Medium |  ✅ Done  |27-07-2026 |[Solve](twopointers/6.Triplet%20Sum%20Close%20to%20Target.md) |
-| 7 | Triplets with Smaller Sum | Medium | ⏳ Not Started | | [Solve](#) |
+| 7 | Triplets with Smaller Sum | Medium | ✅ Done | 28-07-2026 | [Solve](twopointers/7.Triplets%20with%20Smaller%20Sum.md)|
 | 8 | Subarrays with Product Less than a Target | Medium | ⏳ Not Started | | [Solve](#) |
 | 9 | Dutch National Flag Problem | Medium | ⏳ Not Started | | [Solve](#) |
 | 10 | Problem Challenge 1: Quadruple Sum to Target | Medium | ⏳ Not Started | | [Solve](#) |
