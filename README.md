@@ -9,9 +9,9 @@
 | Metric | Value |
 |---|---|
 | Total Problems | 189 |
-| Solved | 6 |
-| Current Streak | 6 |
-| Last Solved | 6 |
+| Solved | 9 |
+| Current Streak | 9 |
+| Last Solved | today |
 
 ---
 
@@ -29,7 +29,7 @@
 | 6 | Triplet Sum Close to Target | Medium |  ✅ Done  |27-07-2026 |[Solve](twopointers/6.Triplet%20Sum%20Close%20to%20Target.md) |
 | 7 | Triplets with Smaller Sum | Medium | ✅ Done | 28-07-2026 | [Solve](twopointers/7.Triplets%20with%20Smaller%20Sum.md)|
 | 8 | Subarrays with Product Less than a Target | Medium |  ✅ Done | 29-07-2026 | [Solve](twopointers/8.Subarrays%20with%20Product%20Less%20than%20a%20Target-713.md)|
-| 9 | Dutch National Flag Problem | Medium | ⏳ Not Started | | [Solve](#) |
+| 9 | Dutch National Flag Problem | Medium | ✅ Done | 30-07-2026 | [Solve](twopointers/9.Dutch%20National%20Flag%20Problem-75.md) |
 | 10 | Problem Challenge 1: Quadruple Sum to Target | Medium | ⏳ Not Started | | [Solve](#) |
 | 11 | Problem Challenge 2: Comparing Strings containing Backspaces | Easy | ⏳ Not Started | | [Solve](#) |
 | 12 | Problem Challenge 3: Minimum Window Sort | Medium | ⏳ Not Started | | [Solve](#) |
