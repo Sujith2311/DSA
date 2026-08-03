@@ -1,0 +1,36 @@
+# Intuition
+The substring must contain only unique characters. We use a sliding window to keep track of the current substring without repeating characters. A hash map stores the last index where each character appeared. If a character repeats within the current window, move the left pointer to the position after its previous occurrence. Update the maximum window length throughout the traversal.
+
+# Approach
+1. Initialize a hash map `last` to store the last seen index of each character.
+2. Set `left = 0` to represent the start of the current window.
+3. Traverse the string using `right`.
+4. If the current character has already appeared in the current window, move `left` to `last[ch] + 1`.
+5. Update the last seen index of the current character.
+6. Calculate the current window length and update the maximum answer.
+7. Return the maximum length.
+
+# Complexity
+- **Time complexity:** `O(n)`
+  - Each character is processed once.
+
+- **Space complexity:** `O(n)`
+  - In the worst case, the hash map stores all unique characters.
+
+# Code
+```python
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        last = {}
+        left = 0
+        ans = 0
+
+        for right, ch in enumerate(s):
+            if ch in last and last[ch] >= left:
+                left = last[ch] + 1
+
+            last[ch] = right
+            ans = max(ans, right - left + 1)
+
+        return ans
+```
